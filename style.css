@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://blogs.iadb.org/salud/wp-content/uploads/sites/15/2020/08/SPH_Newsletters_Blogs_AUG10_GS-POST.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Titulo3{
+    color: blueviolet;
+    margin: 40px;
+}
